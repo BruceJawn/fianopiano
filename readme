@@ -1,0 +1,7 @@
+to compile
+
+you need the following library file under the libs folder of this project:
+[standingwave3] https://github.com/maxl0rd/standingwave3
+[tweenmax] http://www.greensock.com/tweenmax/
+
+Drumkit is for demostrating how to use IInstrumentWavSet interface and StandingwaveInstrument, you can implement other tone like violin by adding corresponding wave set.
