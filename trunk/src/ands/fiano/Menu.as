@@ -1,6 +1,5 @@
 package ands.fiano
 {
-	import ands.fiano.playback.AboutSong;
 	import ands.fiano.playback.LytRecord;
 	import ands.fiano.playback.Playback;
 	import ands.fiano.settings.KeySetting;
